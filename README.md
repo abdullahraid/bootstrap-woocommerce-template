@@ -1,5 +1,5 @@
 # Bootstrap WooCommerce Template
-The WooCommerce templates files redesigned using Twitter Bootstrap.
+The WooCommerce templates files redesigned using Twitter Bootstrap v4.
 
 # Usage
 Clone the project to your main WP theme and rename the directory to "woocommerce". That's pretty much it!
